@@ -1,3 +1,4 @@
+uvicorn==0.17.6
 aniso8601==9.0.1
 click==8.0.1
 deta==1.1.0
